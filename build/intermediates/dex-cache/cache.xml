@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_4a93dca0a2a87b5ff22c3cfa85057795298f7791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a7ec56351f76303cfb9ad9a4a1bdbadae6684b4c">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_622f3c53f9ddcb6f4bbbeaad0b3105c594e2655d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_6c893265b4afb0b8f47efe56951571d3d8239d51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a8495b117cff447f7359c95da8d0f1e4e7e99e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bdcedfce32377d7d0a5f305a9da01dde7b890d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fd6fbb57f9302aedf6a222126340c5a2d436242">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1c14f6ac895f6ead74e34d2fc38c37bf7fed773/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_b4fe742161ff3a982346eda568aba2e8b4bbaab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8dfb653987e1784136ab1f54577c116363a69976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b8a13da3af206bb1b785f1f03e502363e297aa47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_80faedee0d3c5335ab8096a0201633174734786b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1e10d9290323febfcde8f8a2059416c37e1d89f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5f6b05367a2ced5bbc5b4008f073d19e9ea3309b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_cb757d3c0fba4200c7a85b3d4d6ef5de143ac66c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a782b1be46845e5980ba7297af7e9a981670227e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_b190bd850a52f404e6b08657b6eec738544be4ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_101b5a9e7c864ba312bab4e9040dbcd3538b77a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_97a3eea065320a0d8824f0862e8d2bd6bee87141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_11feb02da0afc137e224a5f9a660d9b03742a03a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6a67f596ee5ca5f48981013bc41c18d8cfa436dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7e80154d1b182175879db7634a1b670a6b2ac18e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_bdbdeba75479c2da60f680b67977118a2a0b3343/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jinhan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/jinhan/dev/FlycoTabLayout/BeastMainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_e0b038c4247d438dd6e1e49f9ee61f28e9d4dcb2/classes.dex" />
+    </item>
+
+</items>
